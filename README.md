@@ -31,25 +31,21 @@ A simple web application that generates QR codes from text or URLs using the [go
 
 ### Generate a QR code from a URL
 
-Enter a URL, such as `https://www.example.com`, in the input field and click the "Generate QR Code" button.
+- Enter a URL, such as `https://www.example.com`, in the input field and click the "Generate QR Code" button.
 
 ### Generate a QR code from text
 
-Enter a text, such as `Hello, World!`, in the input field and click the "Generate QR Code" button.
+- Enter a text, such as `Hello, World!`, in the input field and click the "Generate QR Code" button.
 
 ## Contributing
 
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+- Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+- This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
 - [goQR.me](https://goqr.me/) for providing the QR code generation API
 - [Google Fonts](https://fonts.google.com/) for the font used in the project
-
-## Preview
-
-![QR Code Generator Preview](qr-code-generator-preview.png)
